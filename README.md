@@ -6,4 +6,5 @@ By monitoring directory, keep the file list for anything-filelist+ in the newest
 Usage:
 
     $ cd </path/to/anything-watch>
-    $ npm .
+    $ npm install -d
+    $ node .
