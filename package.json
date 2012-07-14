@@ -3,6 +3,6 @@
   , "version": "0.0.1"
   , "dependencies": {
       "underscore": "*"
-    , "watch": "*"
+    , "watch": "https://github.com/p-baleine/watch/tarball/topic-fswatch"
   }
 }
